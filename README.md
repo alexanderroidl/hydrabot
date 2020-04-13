@@ -16,7 +16,7 @@ HydraBot
 * [3. Usage](#3-usage)
 * [4. How it works](#4-how-it-works)
 * [5. Configuration](#5-configuration)
-  * [5.2. Enable random image messages](#52-enable-random-image-messages)
+  * [5.1. Enable random image messages](#51-enable-random-image-messages)
 * [6. Credits](#6-credits)
 
 
