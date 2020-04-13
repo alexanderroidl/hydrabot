@@ -1,0 +1,12 @@
+# Python
+__pycache__
+session.json
+_*.py
+!__*.py
+
+# Logs
+hydrabot.log
+
+# Virtualenv
+venv
+env
