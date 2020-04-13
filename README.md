@@ -7,17 +7,17 @@ HydraBot
 
 
 # Contents
-* [1. Requirements](#requirements)
-* [2. Installation](#installation)
-  * [2.1. Virtual environment](#virtual-environment)
-    * [2.1.1. Creation](#creation)
-    * [2.1.2. Activation](#activation)
-  * [2.2. Python packages](#python-packages)
-* [3. Usage](#usage)
-* [4. How it works](#how-it-works)
-* [5. Configuration](#configuration)
-  * [5.2. Enable random image messages](#enable-random-image-messages)
-* [6. Credits](#credits)
+* [1. Requirements](#1-requirements)
+* [2. Installation](#2-installation)
+  * [2.1. Virtual environment](#21-virtual-environment)
+    * [2.1.1. Creation](#211-creation)
+    * [2.1.2. Activation](#212-activation)
+  * [2.2. Python packages](#22-python-packages)
+* [3. Usage](#3-usage)
+* [4. How it works](#4-how-it-works)
+* [5. Configuration](#5-configuration)
+  * [5.2. Enable random image messages](#52-enable-random-image-messages)
+* [6. Credits](#6-credits)
 
 
 # 1. Requirements
