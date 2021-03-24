@@ -26,7 +26,7 @@ python-dateutil==2.8.1
 python-resize-image==1.1.19
 pytz==2019.3
 requests==2.23.0
-rsa==4.0
+rsa==4.1
 six==1.14.0
 soupsieve==2.0
 termcolor==1.1.0
